@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ba058401-30c2-45b2-bafc-7db06c32eeb5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/exercicios/ex-005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex-008.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aulas/09-04/ex-01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aulas/09-04/ex-02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aulas/09-04/ex-03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aulas/09-04/ex-05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aulas/09-04/ex-06.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aulas/09-04/ex-07.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aulas/09-04/ex-08.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aulas/09-04/ex-09.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aulas/09-04/ex-10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aulas/11-04/ex-01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aulas/11-04/ex-02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aulas/11-04/ex-03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aulas/begin/01-primitive-types.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aulas/begin/02-data-requirement.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aulas/begin/03-static-typing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aulas/begin/04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aulas/teste-string-01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aulas/teste-string-02.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/exercicios/ex-004.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2f0W5rc69sU1eDgW1m9GOi2BJMD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.adivinha-numero.executor": "Run",
+    "Python.ex-001.executor": "Run",
+    "Python.ex-002.executor": "Run",
+    "Python.ex-003.executor": "Run",
+    "Python.ex-004.executor": "Run",
+    "Python.ex-005.executor": "Run",
+    "Python.ex-006.executor": "Run",
+    "Python.ex-007.executor": "Run",
+    "Python.ex-008.executor": "Run",
+    "Python.ex-009.executor": "Run",
+    "Python.ex-010.executor": "Run",
+    "Python.ex-011.executor": "Run",
+    "Python.ex-012.executor": "Run",
+    "Python.ex-013.executor": "Run",
+    "Python.ex-014.executor": "Run",
+    "Python.ex-015.executor": "Run",
+    "Python.ex-016.executor": "Run",
+    "Python.ex-017.executor": "Run",
+    "Python.ex-018.executor": "Run",
+    "Python.ex-019.executor": "Run",
+    "Python.ex-020.executor": "Run",
+    "Python.ex-021.executor": "Run",
+    "Python.ex-022.executor": "Run",
+    "Python.ex-023.executor": "Run",
+    "Python.ex-024.executor": "Run",
+    "Python.ex-025.executor": "Run",
+    "Python.ex-026.executor": "Run",
+    "Python.ex-027.executor": "Run",
+    "Python.manipulando-texto.executor": "Run",
+    "Python.modulos.executor": "Run",
+    "Python.operadores-aritmeticos.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\senai\Senai-Python\aulas-guanabara\Mundo-01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ex-026">
+    <configuration name="ex-023" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Mundo-01" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/ex-023.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex-024" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Mundo-01" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/ex-024.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex-025" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Mundo-01" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/ex-025.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex-026" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Mundo-01" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/ex-026.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex-027" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Mundo-01" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/ex-027.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ex-026" />
+        <item itemvalue="Python.ex-027" />
+        <item itemvalue="Python.ex-025" />
+        <item itemvalue="Python.ex-024" />
+        <item itemvalue="Python.ex-023" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba058401-30c2-45b2-bafc-7db06c32eeb5" name="Changes" comment="" />
+      <created>1712938296536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712938296536</updated>
+    </task>
+    <servers />
+  </component>
+</project>
