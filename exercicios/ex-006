@@ -1,0 +1,29 @@
+import os
+os.system('cls || clear')
+
+soma = 0
+cont = 0
+
+nota = float(input('Digite uma nota: '))
+cont += 1
+# print(f'Quantidade de notas digitadas: {cont}')
+print("""=================================
+S - Inserir mais uma nota
+P - Ver quantas notas foram inseridas
+N - Calcular a média aritmética e mostrar o resultado
+===========================================""")
+resp = str(input('r = ')).upper().strip()
+
+soma += nota
+
+while resp == 'P':
+    os.system('cls || clear')
+    print(f'Quantidade de notas digitadas: {cont}')
+    print('=================================')
+    print('S - Inserir mais uma nota')
+    print('P - Ver quantas notas foram inseridas')
+    print('N - Calcular a média aritmética e mostrar o resultado')
+    print('====================================')
+    resp = str(input('r = ')).upper().strip()
+
+# nota = float(input('Digite outra nota'))
